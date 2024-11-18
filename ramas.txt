@@ -1,2 +1,7 @@
 Creacion del primer commit
+<<<<<<< HEAD
 Cambio Hotfix 1
+=======
+Cambio Develop 1
+Cambio Develop 2
+>>>>>>> origin/Develop
